@@ -1,0 +1,3 @@
+mutation SaveExams($examAnswers: [ExamAnswerInput!]!) {
+  saveExams(examAnswers: $examAnswers)
+}

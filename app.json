@@ -1,0 +1,64 @@
+{
+  "expo": {
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff",
+        "foregroundImage": "./assets/images/adaptive-icon.png"
+      },
+      "package": "com.desun23.mobile",
+      "permissions": []
+    },
+    "experiments": {
+      "typedRoutes": true
+    },
+    "icon": "./assets/images/icon.png",
+    "ios": {
+      "bundleIdentifier": "com",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "supportsTablet": true
+    },
+    "name": "mobile",
+    "orientation": "portrait",
+    "plugins": [
+      "expo-router",
+      [
+        "@react-native-google-signin/google-signin",
+        {
+          "iosUrlScheme": "com.googleusercontent.apps."
+        }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Montserrat-Medium.ttf",
+            "./assets/fonts/Montserrat-SemiBold.ttf",
+            "./assets/fonts/Montserrat-Bold.ttf"
+          ]
+        }
+      ]
+    ],
+    "scheme": "m",
+    "slug": "mobile",
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain"
+    },
+    "userInterfaceStyle": "automatic",
+    "version": "1.0.0",
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/images/favicon.png",
+      "output": "static"
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "17115184-8643-4d12-a079-2bcd9e1ac57c"
+      }
+    }
+  }
+}

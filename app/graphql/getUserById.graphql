@@ -1,0 +1,7 @@
+query GetUserById {
+  getUserById {
+    id
+    firstName
+    email
+  }
+}

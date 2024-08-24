@@ -1,0 +1,20 @@
+export const testPhotosOptionsTsv = `questionId	text1	photo1	text2	photo2	text3	photo3	text4	photo4	text5	photo5	text6	photo6	text7	photo7	text8	photo8	text9	photo9	text10	photo10
+101	The quick, direct route	101-1-The-quick-,-direct-route	The scenic, longer path	101-2-The-scenic-,-longer-path																
+102	More white roses	More white roses	More red roses	102-2-More-red-roses																
+103	Send the maid	103-1-Send-the-maid	Go in person	103-2-Go-in-person																
+104	Windowsill	104-1-Windowsill	By the bed	104-2-By-the-bed	On the bed	104-3-On-the-bed														
+105	Awake female	105-1-Awake-female	Sleeping male	105-2-Sleeping-male	Awake male	105-3-Awake-male	Sleeping female	105-4-Sleeping-female												
+106	The quick, direct route	106-1-direct-route	The scenic, longer path	106-2-scenic-path																
+107	Blue suitcase	107-1-Blue-suicase	Red suitace	107-2-Red-suitcase	Green suitcase	107-3-Green-suitcase	Yellow suicase	107-4-Yellow-suitcase												
+108	Talk with a friend	108-1-Talk-with-a-friend	Reading a book	108-2-Reading-a-book	Getting things done	108-3-Getting-things-done	Having a party	108-4-Having-a-party												
+109	Get to my floor asap	109-1-Get-to-my-floor-asap	Help with the door	109-2-Help-with-the-door	Think quietly about weight of the elevator	109-3-Think-quietly-about-weight-of-the-elevator	Talk to people	109-4-Talk-to-people												
+110	Loneliness	110-1-Loneliness	Panic	110-2-Panic	Betrayal	110-3-Betrayal	Abandonment	110-4-Abandonment	Freedom	109-5-Freedom	Coldness	109-6-Coldness								
+111		111-1-Small-car		111-2-Innovative-car		111-3-Fast-car		111-4-Standard-car		111-5-Powerful-car		111-6-Out-of-norm-car								
+112	Analytical mind	112-1-Analytical-mind	Creative mind	111-2-Creative-mind																
+113	113-1-ENTJ	113-2-ENFJ	113-3-ESTJ	113-4-ESFJ	113-5-ENFP	113-6-ENTP	113-7-ESTP	113-8-ESFP	113-9-INFP	113-10-INTP	113-11-ISTP	113-12-ISFP	113-13-INFJ	113-14-INTJ	113-15-ISTJ	113-16-ISFJ				
+114	114-1-ISTJ	114-2-ISFJ	114-3-INFJ	114-4-INTJ	114-5-ISTP	114-6-ISFP	114-7-INFP	114-8-INTP	114-9-ESTP	114-10-ESFP	114-11-ENFP	114-12-ENTP	114-13-ESTJ	114-14-ESFJ	114-15-ENFJ	114-16-ENTJ				
+115	Acts of service	115-1-Acts-of-service	Quality time	115-2-Quality-time	Gifts	115-3-Gifts	Physical touch	115-5-Physical-touch	Words of affirmation	115-5-Words-of-affirmation										
+116	Unnoticed, Not thought of	116-1-Unnoticed-,-not-thought-of	Lack of affection, Avoidance	116-2-Lack-of-affection-,-avoidance	Too Much responsibility	116-3-Too-much-responsibility	Feeling alone, unseen	116-4-Feeling-alone-,-unseen	Criticized, not feeling good enough											
+117	Meditation	117-1-Meditation	Self realization creative	117-2-Self-realization-creative	Room to live in	117-3-Room-to-live-in	Prosperous bank account	117-4-Prosperous-bank-account	Good food	117-5-Good-food	Loved one	117-6-Loved-one	Friends	117-7-Friends	Apartment or house	117-8-Apartament-or-house	Recognition at work	117-9-Recognition-at-work	Self realization business	117-10-Self-realization-business
+118	Room to live in	118-1-Room-to-live-in	Loved one	118-2-Loved-one	Recognition at work	118-3-Recognition-at-work	Good food	118-4-Good-food	Apartment or house	118-5-Apartament-or-house	Friends	118-6-Friends	Meditation	118-7-Meditation	Self realization business	118-8-Self-realization-business	Prosperous bank account	118-9-Prosperous-bank-account	Self realization creative	118-10-Self-realization-creative
+119	Comfortable and casual male	119-1-Comfortable-and-casual-male	Expressive romantic male	119-2-Expressive-romantic-male	Modest and conservative male	119-3-Modest-and-conservative-male	Structured and polished male	119-4-Structured-and-polished-male	Bold and dominant male	119-5-Bold-and-dominant-male	Comfortable and casual female	119-6-Comfortable-and-casual-female	Expressive romantic female	119-7-Expressive-romantic-female	Modest and conservative female	119-8-Modest-and-conservative-female	Structured and polished female	119-9-Structured-and-polished-female	Bold and dominant female	119-10-Bold-dominant-female`
